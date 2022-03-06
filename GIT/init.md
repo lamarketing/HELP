@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### Скачивание репозитория github
+=======
+###Скачивание репозитория github
+>>>>>>> origin/main
 
 `git clone git@github.com:lamarketing/HELP.git`
 
