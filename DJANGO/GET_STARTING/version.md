@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 ## Версия Django
 ### Из консоли
 `python3 -m django --version`
 ### Из shell
-=======
-##Версия Django
-###Из консоли
-`python3 -m django --version`
-###Из shell
->>>>>>> origin/main
 ```
 >>> import django
 >>> django.__version__
